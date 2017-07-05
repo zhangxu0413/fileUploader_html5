@@ -1,0 +1,23 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "上传打包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "张旭",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-seajs-transport": "^0.4.0",
+    "gulp-uglify": "^2.1.0",
+    "gulp-uncomment-it": "^1.0.0",
+    "jsdoc": "^3.4.3",
+    "jsdoc-to-markdown": "^3.0.0"
+  }
+}
